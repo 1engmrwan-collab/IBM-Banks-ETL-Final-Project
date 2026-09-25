@@ -1,0 +1,8 @@
+2026-09-25 21:55:47 : Preliminaries complete. Initiating ETL process
+2026-09-25 22:05:02 : Data extraction complete. Bronze layer saved
+2026-09-25 22:05:20 : Data transformation complete. Silver layer saved
+2026-09-25 22:05:27 : Gold layer created. Data saved to CSV file
+2026-09-25 22:05:31 : SQL Connection initiated
+2026-09-25 22:05:31 : Data loaded to Database as a table, Executing queries
+2026-09-25 22:05:34 : Process Complete
+2026-09-25 22:06:31 : Server Connection closed
